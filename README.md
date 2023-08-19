@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS/ Next Js / Node Js / Redux / MongoDB / Mongoose
 -------------------------------------------------------------------------------------------------------
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sabbir0911//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir0911/) 
 
 
 
