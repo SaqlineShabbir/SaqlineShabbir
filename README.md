@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a)
+![Header](<script src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js"></script>)
+<img src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js" width="100">
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
