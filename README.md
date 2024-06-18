@@ -75,21 +75,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
   </a>
 </p>
 
-## 📰 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Master Python in 30 Days](https://your-blog-link.com)
-- [Top 10 JavaScript Frameworks to Learn in 2024](https://your-blog-link.com)
-- [A Guide to Responsive Web Design](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Building a REST API with Node.js](https://www.youtube.com/watch?v=your-video-link)
-- [React Hooks in Depth](https://www.youtube.com/watch?v=your-video-link)
-- [Mastering CSS Grid Layout](https://www.youtube.com/watch?v=your-video-link)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## 🎨 Portfolio
 
