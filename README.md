@@ -72,7 +72,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
 
 ## 🎨 Portfolio
 
-Check out my portfolio [here]([https://your-portfolio-link.com](https://sabbir-hossain.vercel.app/).
+Check out my portfolio [here]([https://your-portfolio-link.com](https://sabbir-hossain.vercel.app/)).
 
 <p align="center">
   <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="200">
