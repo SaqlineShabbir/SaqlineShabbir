@@ -43,7 +43,7 @@ growth.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-bg=true&no-frame=true" alt="your-username's GitHub trophies" />
+  <img src="https://media.licdn.com/dms/image/C562DAQELqsZLkP2A6g/profile-treasury-image-shrink_800_800/0/1679987605266?e=1719327600&v=beta&t=u30SeDAIua479eHWW5-vgj9ElvjFOcrtuomJrPs3YWI" alt="certificate" />
 </p>
 
 ## 🌐 Connect with Me
