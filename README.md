@@ -8,14 +8,9 @@
 
 ## About Me
 
-Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from **[Your Location]**. I love creating innovative solutions and collaborating with others to build amazing projects. Here’s a little bit more about me:
-
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Technology/Learning Focus]**
-- 👯 I’m looking to collaborate on **[Collaboration Interests]**
-- 💬 Ask me about **[Topics of Interest]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Your Fun Fact]**
+Recent graduate with a strong commitment to achieving excellence, combined with the ability to adapt
+and learn quickly. Eager to contribute to a dynamic organization and pursue opportunities for professional
+growth.
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400">
@@ -54,7 +49,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/sabbir0911/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter-profile">
@@ -63,7 +58,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
   <a href="https://dev.to/your-devto-profile">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sabbir0911hossain@gmail.com.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
