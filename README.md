@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://your-image-link.com)
+![Header](https://media.giphy.com/media/3o7aD6W80CIaGf9uJi/giphy.gif)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
@@ -18,7 +18,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
 - ⚡ Fun fact: **[Your Fun Fact]**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6W80CIaGf9uJi/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400">
 </p>
 
 ## 🚀 Skills
@@ -96,5 +96,5 @@ Hi there! I'm **[Your Name]**, a passionate developer and lifelong learner from 
 Check out my portfolio [here](https://your-portfolio-link.com).
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="200">
 </p>
